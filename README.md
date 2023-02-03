@@ -30,7 +30,7 @@
 # Установка
 Чтобы установить приложение, перейдите по [ссылке](https://github.com/RadonRebirth/Installation-of-ventilation-systems), нажмите на зеленую кнопку Code и выберете Download ZIP.
 
-![image](https://user-images.githubusercontent.com/96480522/209831838-e7ed89df-18a0-44c1-8eec-9993469b1abc.png)
+![image](https://user-images.githubusercontent.com/96480522/216585566-a4b1804e-0cc4-4b15-a4f9-d699cb2b9999.png)
 
 
 После установки, распакуйте проект в любое удобное вам место, затем запустите его в среде разработки Microsoft Visual Studio (Файл - Открыть - Решение или проект).
